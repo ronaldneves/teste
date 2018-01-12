@@ -1,6 +1,3 @@
-C:\Users\ronal_000\PycharmProjects\projetos\iotpy
-
-
 mydata = input ("digite o nome do dataset \n")
 var1 = input ("digite o valor da primeira variavel \n")
 var2 = input ('digite o valor d asegunda variavel \n')
